@@ -1,0 +1,120 @@
+body{
+    background-color: blue;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all_intrument{
+    width: 400px;
+    background-color: white;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.all_intrument h1{
+    padding: 30px;
+    font-family: sans-serif;
+}
+.all_intrument .icon{
+    display: flex;
+    width: 85%;
+    height: 30px;
+    /* background: #d3e603; */
+    margin-left: 30px;
+    border-bottom: 1px solid #676767;
+}
+.all_intrument .icon h4{
+    margin-left: 10px;
+    font-family: sans-serif;
+    color: #676767;
+    font-size: 15px;
+
+}
+.all_intrument .icon i{
+    color: #676767;
+}
+.all_intrument .icon2{
+    display: flex;
+    width: 85%;
+    height: 30px;
+    /* background: #d3e603; */
+    margin-left: 30px;
+    border-bottom: 1px solid #676767;
+}
+.all_intrument .icon2 h4{
+    margin-left: 10px;
+    font-family: sans-serif;
+    color: #676767;
+    font-size: 15px;
+
+}
+.all_intrument .icon2 i{
+    color: #676767;
+}
+.all_intrument .icon2 q{
+    margin-left: 155px;
+    color: #676767;
+}
+.all_intrument .icon3{
+    display: flex;
+    width: 85%;
+    height: 30px;
+    /* background: #d3e603; */
+    margin-left: 30px;
+}
+.all_intrument .icon3 h4{
+    margin-left: 10px;
+    font-family: sans-serif;
+    color: #676767;
+    font-size: 13px;
+
+}
+.all_intrument .icon3 i{
+    color: #676767;
+}
+.all_intrument .icon3 q{
+    margin-left: 155px;
+    color: #676767;
+}
+.all_intrument .icon3 h5{
+    margin-left: 125px;
+    color: rgb(0, 106, 255);
+}
+.all_intrument .login{
+width: 80%;
+height: 50px;
+background: blue;
+margin-left: 40px;
+margin-top: 20px;
+border-radius: 10px;
+}
+.all_intrument .login h2{
+    font-size: 16px;
+    font-family: sans-serif;
+    color: white;
+    padding-top: 13px;
+    padding-left: 110px;
+}
+
+.all_intrument .footer{
+    width: 80%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40px;
+}
+.all_intrument .footer h3{
+    font-size: 13px;
+    color: #676767;
+    font-family: sans-serif;
+}
+.all_intrument .footer h4{
+    font-size: 13px;
+    color: rgb(32, 100, 248);
+    font-family: sans-serif;
+}
